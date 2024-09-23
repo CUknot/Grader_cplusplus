@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693752231 source:c:\users\user\c++study\grader[d62_q1b_grandfather] grandfather\main.cpp
+	<iostream>
+	<vector>
+	<map>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692540211 source:c:\users\user\c++study\[d57_q0_remove_even] remove even\main.cpp
+	<iostream>
+	<vector>
+

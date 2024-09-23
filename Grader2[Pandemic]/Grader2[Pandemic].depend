@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711789638 source:c:\users\user\c++study\grader2[pandemic]\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695281555 source:c:\users\user\c++study\grader[d65_q1b_sparse_vector] 4 sparse vector\main.cpp
+	<iostream>
+	<vector>
+	<map>
+

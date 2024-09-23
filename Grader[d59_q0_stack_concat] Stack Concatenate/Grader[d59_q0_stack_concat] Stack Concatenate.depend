@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694188085 source:c:\users\user\c++study\grader[d59_q0_stack_concat] stack concatenate\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

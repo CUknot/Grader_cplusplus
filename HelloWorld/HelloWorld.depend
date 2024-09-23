@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692154730 source:c:\users\user\c++study\helloworld\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709793477 source:c:\users\user\c++study\grader2[bigger billboard]\main.cpp
+	<iostream>
+	<algorithm>
+

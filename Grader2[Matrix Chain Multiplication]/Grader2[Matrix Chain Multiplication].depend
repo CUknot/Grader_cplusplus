@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709624547 source:c:\users\user\c++study\grader2[matrix chain multiplication]\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

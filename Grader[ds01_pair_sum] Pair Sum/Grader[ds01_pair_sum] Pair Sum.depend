@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693233159 source:c:\users\user\c++study\grader[ds01_pair_sum] pair sum\main.cpp
+	<iostream>
+	<map>
+	<vector>
+

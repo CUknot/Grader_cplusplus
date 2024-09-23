@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1694354507 source:c:\users\user\c++study\grader[ex00m2] auction\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<queue>
+	<algorithm>
+

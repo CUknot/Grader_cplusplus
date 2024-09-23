@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693073544 source:c:\users\user\c++study\grader[d65_q1a_multiply] member multiply\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

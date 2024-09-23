@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1713707004 source:c:\users\user\c++study\grader2[increasing sequence sum]\main.cpp
+	<iostream>
+	<vector>
+	<set>
+	<stack>
+

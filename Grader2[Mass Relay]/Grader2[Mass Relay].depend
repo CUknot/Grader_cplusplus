@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711891317 source:c:\users\user\c++study\grader2[mass relay]\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

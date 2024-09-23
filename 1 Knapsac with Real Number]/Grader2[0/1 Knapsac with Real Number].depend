@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1713714779 source:c:\users\user\c++study\1 knapsac with real number]\grader2[0\main.cpp
+	<iostream>
+	<queue>
+	<tuple>
+	<algorithm>
+

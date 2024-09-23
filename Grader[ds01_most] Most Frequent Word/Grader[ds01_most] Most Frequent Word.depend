@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1693365162 source:c:\users\user\c++study\grader[ds01_most] most frequent word\main.cpp
+	<iostream>
+	<map>
+

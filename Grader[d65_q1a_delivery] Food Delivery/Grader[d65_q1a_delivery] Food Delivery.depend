@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694251294 source:c:\users\user\c++study\grader[d65_q1a_delivery] food delivery\main.cpp
+	<iostream>
+	<vector>
+

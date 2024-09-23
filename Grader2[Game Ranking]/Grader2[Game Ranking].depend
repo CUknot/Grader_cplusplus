@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711900908 source:c:\users\user\c++study\grader2[game ranking]\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

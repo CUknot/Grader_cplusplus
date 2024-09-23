@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711805036 source:c:\users\user\c++study\grader2[hole]\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

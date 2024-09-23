@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1714652089 source:c:\users\user\c++study\grader2[15 puzzle]\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<unordered_set>
+

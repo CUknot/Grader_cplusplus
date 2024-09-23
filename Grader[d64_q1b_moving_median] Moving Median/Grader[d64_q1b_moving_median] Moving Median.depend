@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694097600 source:c:\users\user\c++study\grader[d64_q1b_moving_median] moving median\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

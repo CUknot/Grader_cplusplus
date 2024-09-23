@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1695015384 source:c:\users\user\c++study\grader[d65_q1c_ice_cream] ice cream\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

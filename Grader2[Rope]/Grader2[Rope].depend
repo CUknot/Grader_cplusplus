@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709544095 source:c:\users\user\c++study\grader2[rope]\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

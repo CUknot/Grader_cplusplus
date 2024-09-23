@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709537673 source:c:\users\user\c++study\grader2[diagonal sum]\main.cpp
+	<iostream>
+	<vector>
+

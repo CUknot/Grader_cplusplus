@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1711730364 source:c:\users\user\c++study\grader[connected component]\main.cpp
+	<iostream>
+	<vector>
+

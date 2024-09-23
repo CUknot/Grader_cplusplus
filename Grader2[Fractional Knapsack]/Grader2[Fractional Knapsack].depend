@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713705711 source:c:\users\user\c++study\grader2[fractional knapsack]\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1693841729 source:c:\users\user\c++study\grader[d58_q0_rating] cucas rating\main.cpp
+	<iostream>
+	<iomanip>
+	<map>
+	<vector>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711881409 source:c:\users\user\c++study\grader2[shortest path with negative edge]\main.cpp
+	<iostream>
+	<vector>
+	<limits.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711791355 source:c:\users\user\c++study\grader2[perimeter]\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+

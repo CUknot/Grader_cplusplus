@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693364465 source:c:\users\user\c++study\grader[ds02_intersection] intersection\main.cpp
+	<iostream>
+	<vector>
+	<set>
+

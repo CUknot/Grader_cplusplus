@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696854886 source:c:\users\user\c++study\grader[d66_q1b_car_brake] car brake\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

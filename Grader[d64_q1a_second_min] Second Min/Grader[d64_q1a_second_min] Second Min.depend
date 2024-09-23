@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1694185913 source:c:\users\user\c++study\grader[d64_q1a_second_min] second min\main.cpp
+	<algorithm>
+	<iostream>
+	<stack>
+	<queue>
+	<vector>
+	<set>
+	<map>
+	<list>
+

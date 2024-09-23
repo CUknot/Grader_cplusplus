@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707749266 source:c:\users\user\c++study\grader2[a66_q1a_day_cover]\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694360575 source:c:\users\user\c++study\grader[d65_q1c_min_of_max] min of max\main.cpp
+	<iostream>
+	<vector>
+	<set>
+

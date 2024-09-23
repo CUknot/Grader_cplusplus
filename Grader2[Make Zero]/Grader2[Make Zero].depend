@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714744363 source:c:\users\user\c++study\grader2[make zero]\main.cpp
+	<iostream>
+	<queue>
+	<unordered_set>
+
